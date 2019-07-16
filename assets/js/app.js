@@ -64,6 +64,7 @@ function populateGIFContainer(show){
 	});
 }
 
+
 $(document).ready(function(){
 	renderButtons();
 	$("#submit").on("click", function(){
